@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 name: portal
-description: Bill8:Portal — customer billing portal (invoices, subscriptions, payment methods). Flutter (iOS, Android, Web).
+description: Bill8:Portal - customer billing portal (invoices, subscriptions, payment methods). Flutter (iOS, Android, Web).
 publish_to: "none"
 version: 0.1.0
 

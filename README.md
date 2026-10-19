@@ -1,4 +1,4 @@
-# Bill8:Portal — Flutter App
+# Bill8:Portal - Flutter App
 
 The customer/seller billing portal: view invoices, manage subscriptions,
 and review earnings.
@@ -26,12 +26,12 @@ graph TD
 
 ## 4. Key Traits and Data Structures
 
-- `Bff8ApiClient` — shared BFF client.
+- `Bff8ApiClient` - shared BFF client.
 - Invoice list/pay, subscription management, earnings/payout views.
 
 ## 5. Rationale, Trade-offs, and Alternatives
 
-- **BFF proxy only** — no direct service calls.
+- **BFF proxy only** - no direct service calls.
 
 ## 6. Internal Implementation & Invariants
 
