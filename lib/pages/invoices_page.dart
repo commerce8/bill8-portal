@@ -3,12 +3,12 @@
 // SPDX-FileCopyrightText: Copyright Contributors to the Bill8:Portal
 // SPDX-License-Identifier: Apache-2.0
 
-// The invoices page — the customer's invoice list with status and
+// The invoices page - the customer's invoice list with status and
 // pay-now actions.
 //
 // Invoices render from the billing service through the BFF proxy; the
 // pay-now action charges the invoice through the payments service
-// (idempotency-keyed server-side — billing DESIGN.md §6).
+// (idempotency-keyed server-side - billing DESIGN.md §6).
 
 import 'package:flutter/material.dart';
 import 'package:sentin8/sentin8.dart';
